@@ -2,4 +2,4 @@ Págida apenas demonstrativa de Login e Cadastro de usuários com design intuiti
 
 link de acesso à página:
 
-juliolds.github.io/Login-e-Cadastro/login.html
+https://juliolds.github.io/Login-e-Cadastro/login.html
