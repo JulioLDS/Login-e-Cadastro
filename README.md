@@ -29,4 +29,4 @@ Página apenas demonstrativa de Login e Cadastro de usuários com design intuiti
 ![Screenshot](images/screenshot.png)
 
 
-🌐 **Veja a página online:** [https://JulioLDS.github.io/Login-e-Cadastro/](https://JulioLDS.github.io/Login-e-Cadastro/)
+🌐 **Veja a página online:** [https://juliolds.github.io/Login-e-Cadastro/login.html](https://juliolds.github.io/Login-e-Cadastro/login.html)
